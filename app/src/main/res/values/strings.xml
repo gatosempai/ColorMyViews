@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ColorMyViews</string>
+    <string name="text_box_ome">Box one</string>
+    <string name="text_box_two">Box two</string>
+    <string name="text_box_three">Box three</string>
+    <string name="text_box_four">Box four</string>
+    <string name="text_box_five">Box five</string>
 </resources>
